@@ -1,2 +1,2 @@
 # Java
-Ce répertoire comprend des programmes java.
+Ce répertoire comprend des **programmes** / **exercices** java.
