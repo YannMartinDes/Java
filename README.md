@@ -1,2 +1,2 @@
 # Java
-Ce répertoire comprend des **programmes** / **exercices** java.
+This directory contains java programs from my courses.
